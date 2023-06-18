@@ -1,0 +1,13 @@
+[
+{
+"fraza":"wiki"
+}, 
+{
+"fraza":"wikipedia",
+"query":"?q=wikipedia"
+}, 
+{
+    "fraza":"politechnika bialostocka",
+    "query": "?q=politechnika+bialostocka"
+}
+]
