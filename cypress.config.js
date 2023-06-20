@@ -8,6 +8,7 @@ module.exports = defineConfig({
     baseUrl: "https://www.poranny.pl/",
     chromeWebSecurity: false,
     watchForFileChanges: false,
+    projectId: "vv3gpo",
     setupNodeEvents(on, config) {
       // implement node event listeners here
       require("cypress-mochawesome-reporter/plugin")(on);
